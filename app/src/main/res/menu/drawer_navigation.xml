@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/drawer_navigation_item1"
+        android:icon="@drawable/ic_item1"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/drawer_navigation_item2"
+        android:icon="@drawable/ic_item2"
+        android:title="Files" />
+
+    <item
+        android:id="@+id/drawer_navigation_item3"
+        android:icon="@drawable/ic_item3"
+        android:title="Connection" />
+
+    <item
+        android:id="@+id/drawer_navigation_item4"
+        android:icon="@drawable/ic_item4"
+        android:title="Profile" />
+    
+</menu>
